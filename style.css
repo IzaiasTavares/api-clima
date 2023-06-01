@@ -1,0 +1,86 @@
+#divBusca{
+    background-color:#E0EEEE;
+    border:solid 2px #5F9EA0;
+    border-radius:10px;
+    width:300px;
+    height:32px;
+    }
+
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: 'Poppins';
+    }
+    
+    body {
+      height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background-color: #00ddff;
+      background-image: url(img/thumb-1920-575608.jpg);
+      background-size: cover;
+    }
+    
+    main {
+      padding: 20px;
+      border-radius: 5px;
+      max-width: 400px;
+      width: 100%;
+      background-image: url;
+      background-size: cover;
+      padding-top: 70px;
+      padding-bottom: 140px;
+      border-radius: 30px;
+      background: linear-gradient(rgb(0, 136, 255), rgb(32, 30, 30) );
+
+
+    }
+
+    
+    header {
+      display: flex;
+      align-items: center;
+      gap: 5px;
+    }
+    
+    input {
+      padding: 5px;
+      outline: none;
+      border-radius: 5px;
+      font-size: 20px;
+      width: 100%;
+    }
+    
+    button {
+      display: flex;
+      background: transparent;
+      border: none;
+      cursor: pointer;
+      outline: none;
+    }
+    
+    button i {
+      font-size: 40px;
+    }
+    
+    .content {
+      margin-top: 10px;
+      justify-content: space-between;
+      word-break: break-word;
+    }
+    
+    img {
+      min-width: 120px;
+      background-image: radial-gradient(#b5b5b5, #f7f7f7 70%);
+
+    }
+
+    .titulo{
+
+    padding-bottom: 50px;
+    padding-left: 80px;
+
+    }
+
